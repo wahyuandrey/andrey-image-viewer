@@ -1,0 +1,6 @@
+opencv-python>=4.14.0.94
+Pillow
+numpy
+pyvips
+tifffile
+pyinstaller
